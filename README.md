@@ -1,3 +1,3 @@
 # Git-Project
-<a href="https://leanpub.com/ydkjsy-get-started"><img src="get-started/images/cover.png" width="75"></a>&nbsp;&nbsp;
+<a href="https://leanpub.com/ydkjsy-get-started"><img src="login page/assets/bg.jpg" width="75"></a>&nbsp;&nbsp;
 <a href="https://leanpub.com/ydkjsy-scope-closures"><img src="scope-closures/images/cover.png" width="75"></a>&nbsp;&nbsp;...
