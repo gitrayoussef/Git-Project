@@ -1,3 +1,5 @@
 # Git-Project
-<a href="https://leanpub.com/ydkjsy-get-started"><img src="login page/assets/bg.jpg" width="75"></a>&nbsp;&nbsp;
-<a href="https://leanpub.com/ydkjsy-scope-closures"><img src="scope-closures/images/cover.png" width="75"></a>&nbsp;&nbsp;...
+<img
+  src="https://screenletstore.appspot.com/img/95aaa0f0-37a4-11e7-a652-7b8128ce3e3b.png"
+  title="Piskel editor screenshot"
+  width="500">
